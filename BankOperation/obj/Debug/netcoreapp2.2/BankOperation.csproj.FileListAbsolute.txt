@@ -1,0 +1,9 @@
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\bin\Debug\netcoreapp2.2\BankOperation.deps.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\bin\Debug\netcoreapp2.2\BankOperation.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\bin\Debug\netcoreapp2.2\BankOperation.pdb
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\obj\Debug\netcoreapp2.2\BankOperation.csprojAssemblyReference.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\obj\Debug\netcoreapp2.2\BankOperation.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\obj\Debug\netcoreapp2.2\BankOperation.AssemblyInfoInputs.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\obj\Debug\netcoreapp2.2\BankOperation.AssemblyInfo.cs
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\obj\Debug\netcoreapp2.2\BankOperation.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankOperation\obj\Debug\netcoreapp2.2\BankOperation.pdb

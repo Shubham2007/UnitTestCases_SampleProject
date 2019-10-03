@@ -1,0 +1,17 @@
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.deps.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.runtimeconfig.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.runtimeconfig.dev.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.pdb
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProject.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\bin\Debug\netcoreapp2.2\ReservationTestCaseProject.pdb
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.csprojAssemblyReference.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.AssemblyInfoInputs.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.AssemblyInfo.cs
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.csproj.CopyComplete
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\ReservationTestCaseProjectUnitTests\obj\Debug\netcoreapp2.2\ReservationTestCaseProjectUnitTests.pdb

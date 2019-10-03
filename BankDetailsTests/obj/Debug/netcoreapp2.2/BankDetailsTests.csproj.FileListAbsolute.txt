@@ -1,0 +1,17 @@
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankDetailsTests.deps.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankDetailsTests.runtimeconfig.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankDetailsTests.runtimeconfig.dev.json
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankDetailsTests.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankDetailsTests.pdb
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankOperation.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\bin\Debug\netcoreapp2.2\BankOperation.pdb
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.csprojAssemblyReference.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.AssemblyInfoInputs.cache
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.AssemblyInfo.cs
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.csproj.CopyComplete
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.dll
+C:\Users\Shubham Chauhan\source\repos\ReservationTestCaseProject\BankDetailsTests\obj\Debug\netcoreapp2.2\BankDetailsTests.pdb
